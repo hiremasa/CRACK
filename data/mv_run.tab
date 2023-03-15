@@ -1,0 +1,18 @@
+causal_tuebingen/pair0052.txt	4	(Temp, Press, SLP, Rh)	(Temp, Press, Slp, Rh)	ncep-ncar	<-	-t i
+causal_tuebingen/pair0053.txt	1	Ozone concentration	(Wind speed, Radiation, Temperature)	environmental	<-	-t i
+causal_tuebingen/pair0054.txt	3	(Displacement, Horsepower, Weight)	(Fuel consumption, Acceleration)	auto-mpg	->	-t i
+causal_tuebingen/pair0055.txt	16	Ozone concentration (16-dim.)	Radiation (16-dim.)	Bafu	<-	-t i
+causal_tuebingen/pair0071_b.txt	6	Symptoms (6-dim.)	Classification of disease (2-dim.)	Acute Inflammations	->	
+causal_tuebingen/pair0105.txt	9	pixel vector of a patch	total brightness at the screen	D. Janzing	->	-t i
+janzing2009/Chemnitz_data_cut.txt	3	wind and temp	ozone, dust,...	D. Janzing	->	-t i
+janzing2009/precipitation_data_cut.txt	3	position	precipitation in 12 month	D. Janzing	->	-t i
+janzing2009/Stock_7.txt	4	asia	europe	D. Janzing	->	-t i
+janzing2009/Stock_9.txt	4	asia	europe and usa	D. Janzing	->	-t i
+haberman/haberman_data.txt	3	patient treatment	survival status	Haberman	->	
+iris/iris_data.txt	4	flower properties	flower type	Iris	->	
+mammals/environment_canis_lepus_martes.txt	4	environmental factors	canis, lepus and martes	Mammals	->	
+mammals/environment_canis.txt	4	environmental factors	canis	Mammals	->	
+mammals/environment_lepus.txt	4	environmental factors	lepus	Mammals	->	
+mammals/environment_martes.txt	4	environmental factors	martes	Mammals	->	
+octet/pair11.tab	1	energy	factors	Octet	<-	-t i
+octet/pair12.tab	1	energy	factors	Octet	<-	-t i
